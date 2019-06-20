@@ -1,0 +1,5 @@
+reporting/ExtentManager.class
+reporting/ExtentTestManager.class
+fameWork/MobileAPI.class
+fameWork/CommonAPI.class
+reporting/TestLogger.class
